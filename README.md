@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning javascript <br>🎯 Goals: master react<br>🎲 Fun fact: I hate css</p>
+<p align="left">✨ Finding bugs since 2023<br>📚 I'm currently learning javascript <br>🎯 Goals: master react<br>🎲 Fun fact: I hate css</p>
 
 ###
 
