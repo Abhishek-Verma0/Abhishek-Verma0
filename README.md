@@ -48,9 +48,8 @@
 </div>
 
 
-<div align="center>
   
 ![snake gif](https://github.com/Abhishek-Verma0/Abhishek-Verma0/blob/output/github-snake-dark.svg)
   
-</div>
+
 
