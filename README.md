@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Abhishek Verma</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate developer and learner</h3>
 
 <div align="center"><p> <img src="https://komarev.com/ghpvc/?username=Abhishek-Verma0&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-verma0" /> </p></div>
 <div align="center">
