@@ -1,14 +1,20 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Abhishek Verma</h1>
-<h3 align="center">A passionate developer and learner</h3>
+<!-- HELLO SECTION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abhishek+Verma!" alt="HELLO SECTION">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
+<h3 align="center"> <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="20">  Machine Learning Engineer   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="20">  FullStack Enthusiast </h3>
 
 <div align="center"><p> <img src="https://komarev.com/ghpvc/?username=Abhishek-Verma0&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-verma0" /> </p></div>
 <div align="center">
+
 <p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abhishek-Verma0&theme=algolia&title=Followers,Stars,Repositories,Commits,PullRequest,Experience&column=6&margin-w=15&margin-h=15" alt="abhishek-verma0" /></a> </p>
 </div>
 
+# 💫 About Me:
 - 🌱 I’m currently learning **TensorFlow, Deep Learning, CNNs, React, TypeScript, Three.js, and React Three Fiber.**
 
 - 💬 Ask me about **Python , C++, JavaScript, React, LLMs, and deploying AI models in the browser**
@@ -156,7 +162,15 @@
 </div>
 
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 📈 Contribution Graph:
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek-verma0&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+<br>
 
 
 
