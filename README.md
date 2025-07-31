@@ -173,9 +173,7 @@
 <br>
 
 
-<div align="center">
-<img src="https://profile-counter.glitch.me/Abhishek-Verma0/count.svg" align="center" />
-</div> 
+
 
 
   
