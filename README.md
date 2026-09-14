@@ -15,9 +15,9 @@
 </div>
 
 # 💫 About Me:
-- 🌱 I’m currently learning **TensorFlow, Deep Learning, CNNs, React, TypeScript, Three.js, and React Three Fiber.**
+- 🌱 I’m currently learning **TensorFlow, PyTorch, Deep Learning, CNNs, React, TypeScript.**
 
-- 💬 Ask me about **Python , C++, JavaScript, React, LLMs, and deploying AI models in the browser**
+- 💬 Ask me about **Python , C++, JavaScript, React, LLMs**
 
 - ⚡ Fun fact **I write bugs faster than Stack Overflow can answer.**
 
@@ -79,9 +79,6 @@
 
   
 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -89,9 +86,6 @@
 
 
 
-  <a href="https://ionicframework.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/>
-  </a>
 
   <a href="https://www.java.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -142,9 +136,6 @@
 
  
 
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </a>
 
 </div>
 
